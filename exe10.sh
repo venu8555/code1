@@ -8,3 +8,4 @@ avg=$(echo "scale=2; $sum / 5" | bc)
 
 echo "the total Average marks is : $avg"
 echo "very good...."
+read -p "this venu"
